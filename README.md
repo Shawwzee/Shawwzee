@@ -12,10 +12,10 @@ _________
 **Projects I'm working on:**
 * Film quest
   - Recently searched section
-  - UI redesign (maybe)
+  - UI redesign to look better
 * DoneDat
-  - Save tasks using local storage
-  - Settings page
+  - Save tasks using local storage API
+  - Settings page to change colour and so on
 
 Keep an eye on my GitHub page to see when these projects get added/updated!
 

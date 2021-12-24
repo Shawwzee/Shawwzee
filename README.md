@@ -7,10 +7,6 @@ Hi I'm Shawn Sutton, an aspiting mobile and web developer looking to learn how t
 * DoneDat
   - Save tasks using local storage
   - Settings page
-* Portfolio website
-  - Show case of projects
-  - Contact page
-  - Responsive UI
 
 Keep an eye on my GitHub page to see when these projects get added/updated!
 

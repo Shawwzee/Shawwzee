@@ -9,6 +9,15 @@ _________
 
 _________
 
+Languages I've used:
+- HTML
+- CSS
+- Javascript
+- C#
+- PHP
+
+_________
+
 **Projects I'm working on:**
 * Film quest
   - Recently searched section

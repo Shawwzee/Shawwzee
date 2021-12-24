@@ -1,11 +1,8 @@
-Hi I'm Shawn Sutton, an aspiting mobile and web developer looking to learn how to code, launch and maintain mobile-centric applications as well as websites for clients. At the moment I'm getting to grips with the basics and working up from there, this space is for the projects I complete and are happy to show off as part of my portfolio for development.
-
-_________
-
 **About Me:**
-  - Self taught programmer
-  - UI/UX designer
-  - Reach me on [Twitter](twitter.co.uk/shawwzee)
+Hi, I'm Shawn Sutton, an aspiting mobile and web developer looking to learn how to code, launch and maintain mobile-centric applications as well as websites for clients. At the moment I'm getting to grips with the basics and working up from there, this space is for the projects I complete and are show off as part of my portfolio for development.
+
+Always looking to collab and feedback:
+Reach me on [Twitter](twitter.co.uk/shawwzee)
 
 _________
 
